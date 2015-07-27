@@ -1,6 +1,6 @@
 {
   "name": "edwin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yoyyooyoyoyoyoyy",
   "repository": {
     "type": "git",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/EHidalgo45/how-to-npm/issues"
   },
-  "homepage": "https://github.com/EHidalgo45/how-to-npm#readme"
+  "homepage": "https://github.com/EHidalgo45/how-to-npm#readme",
+  "dist-tags": {
+    "latest": "1.0.1",
+    "oldest": "1.0.0"
+  }
 }
