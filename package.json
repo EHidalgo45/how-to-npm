@@ -20,7 +20,7 @@
     "url": "https://github.com/EHidalgo45/how-to-npm/issues"
   },
   "homepage": "https://github.com/EHidalgo45/how-to-npm#readme",
-  "dist-tags": {
+  "dist-tag": {
     "oldest": "1.0.0"
   }
 }
