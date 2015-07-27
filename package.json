@@ -1,7 +1,11 @@
 {
   "name": "edwin",
   "version": "1.0.0",
-  "description": "",
+  "description": "yoyyooyoyoyoyoyy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EHidalgo45/how-to-npm.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -10,5 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/EHidalgo45/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/EHidalgo45/how-to-npm#readme"
 }
