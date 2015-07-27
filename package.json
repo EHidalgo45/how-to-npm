@@ -1,6 +1,6 @@
 {
   "name": "edwin",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "yoyyooyoyoyoyoyy",
   "repository": {
     "type": "git",
@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/EHidalgo45/how-to-npm#readme",
   "dist-tags": {
-    "latest": "1.0.2",
     "oldest": "1.0.0"
   }
 }
